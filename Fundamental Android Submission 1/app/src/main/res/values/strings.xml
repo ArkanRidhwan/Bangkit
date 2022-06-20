@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PErcobaan ke 5</string>
+    <string name="repository">Repository</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+</resources>

@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Story Maps Arkan</string>
+    <string name="login_message">Lets Login</string>
+    <string name="title_text">This MyStory, Where your Story?</string>
+    <string name="banner_image">Banner Image</string>
+    <string name="masuk">Login</string>
+    <string name="daftar_yuk"><u>REGISTER</u></string>
+    <string name="belum_punya_akun">DON\'T HAVE AN ACCOUNT?</string>
+    <string name="kenalan_dulu_yuk">Introduce to us.</string>
+    <string name="sudah_punya_akun">ALREADY HAVE AN ACCOUNT?</string>
+    <string name="masuk_yuk"><u>LOGIN</u></string>
+    <string name="siap_sharing_ceritamu">Story Apps Application From Dicoding n Arkan</string>
+    <string name="daftar">REGISTER</string>
+    <string name="description_detailValue">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam non augue rutrum, finibus sem accumsan, sagittis justo. Mauris et velit rutrum, eleifend sem eu, ornare velit. Nulla nec nulla vel erat lobortis accumsan ut sit amet justo. Duis finibus diam vitae urna condimentum ullamcorper.</string>
+    <string name="sender_name">Sender</string>
+    <string name="sender_date">Date Send</string>
+    <string name="story_picture">Story Picture</string>
+    <string name="data_detail">Detail Data</string>
+    <string name="id">ID</string>
+    <string name="id_detailValue">99</string>
+    <string name="date">Date</string>
+    <string name="description_title">Description</string>
+    <string name="date_detailValue">1 Januari 2022</string>
+    <string name="name_detailValue">Author - Guest</string>
+    <string name="galery">Galery</string>
+    <string name="name_title">Name</string>
+    <string name="addStory">Add Story</string>
+    <string name="detailStory">Detail Story</string>
+    <string name="no_results_found">No results found</string>
+    <string name="error_info">Results could not be loaded</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="story_title">Story</string>
+    <string name="retry">Retry</string>
+    <string name="add_story_button">Add Story Button</string>
+    <string name="error_msg">Oops.. Something Went Wrong :(</string>
+    <string name="google_maps_button">Google Maps Button</string>
+    <string name="author">Author:</string>
+    <string name="search_filter_default_value">search</string>
+    <string name="search_view_hint">Search games</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="signup">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="message_welcome_page">Update your story</string>
+    <string name="title_welcome_page">Welcome</string>
+    <string name="title_signup_page">Register </string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Login</string>
+    <string name="title_login_page">Story Apps Application From Dicoding by Arkan</string>
+    <string name="name">Name</string>
+    <string name="copyright">© 2022 Dicoding</string>
+    <string name="message_main_page">Welcome</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Logout</string>
+    <string name="camera">camera</string>
+    <string name="gallery">gallery</string>
+    <string name="upload">ADD</string>
+    <string name="add_story">Add Story</string>
+    <string name="passinput">Max 6</string>
+    <string name="language">Language</string>
+    <string name="timeout">Timeout</string>
+    <string name="profile">Profile</string>
+    <string name="share_location">Share My Location</string>
+    <string name="this_is_an_image_logo" translatable="false">This is an image logo</string>
+    <string name="hi" translatable="false">Hello There</string>
+    <string name="tambah_cerita" translatable="false">Add New Story</string>
+</resources>

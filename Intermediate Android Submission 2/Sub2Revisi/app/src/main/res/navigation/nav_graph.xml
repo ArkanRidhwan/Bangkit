@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/map_nav_graph"
+    app:startDestination="@id/storyFragment">
+    <fragment
+        android:id="@+id/storyFragment"
+        android:name="com.arkan.ridwan.storyapps.view.ui.StoryFragment"
+        android:label="Story List"
+        tools:layout="@layout/fragment_story">
+        <action
+            android:id="@+id/action_storyFragment_to_detailFragment"
+            app:destination="@id/detailFragment"
+            app:popUpTo="@id/storyFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_storyFragment_to_addFragment"
+            app:destination="@id/addFragment"
+            app:popUpTo="@id/storyFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/mapsFragment"
+        android:name="com.arkan.ridwan.storyapps.view.ui.MapsFragment"
+        android:label="Story Maps"
+        tools:layout="@layout/fragment_maps">
+        <action
+            android:id="@+id/action_mapsFragment_to_detailFragment"
+            app:destination="@id/detailFragment"
+            app:popUpTo="@id/mapsFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.arkan.ridwan.storyapps.view.ui.DetailFragment"
+        android:label="Detail"
+        tools:layout="@layout/fragment_detail">
+    </fragment>
+    <fragment
+        android:id="@+id/addFragment"
+        android:name="com.arkan.ridwan.storyapps.view.ui.AddFragment"
+        android:label="Detail"
+        tools:layout="@layout/fragment_add">
+        <action
+            android:id="@+id/action_addFragment_to_storyFragment"
+            app:destination="@id/storyFragment"
+            app:popUpTo="@id/addFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+</navigation>

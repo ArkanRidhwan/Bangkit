@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">@null</item>
+    </style>
+    <style name="splashScreen">
+        <item name="android:layout_width">200dp</item>
+        <item name="android:layout_height">200dp</item>
+    </style>
+
+    <style name="profile">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+    </style>
+
+    <style name="favorite">
+        <item name="android:layout_width">30dp</item>
+        <item name="android:layout_height">30dp</item>
+    </style>
+
+    <style name="text">
+        <item name="android:textColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="text.small">
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="text.medium">
+        <item name="android:textSize">18dp</item>
+    </style>
+
+    <style name="text.large">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+
+    <style name="text.small.location">
+        <item name="android:drawableLeft">@drawable/location</item>
+    </style>
+
+    <style name="buttonBackground">
+        <item name="backgroundTint">@color/basic</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="tabLayout">
+        <item name="backgroundTint">@color/basic</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+</resources>

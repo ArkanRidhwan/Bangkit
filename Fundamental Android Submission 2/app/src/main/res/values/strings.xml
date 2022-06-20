@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Submission 2</string>
+    <string name="dummy_fullname">Full name</string>
+    <string name="dummy_username">username</string>
+    <string name="dummy_item">Ellena</string>
+    <string name="search">Search</string>
+    <string name="change_language_setting">Change Language</string>
+    <string name="query_hint">Search By Name Here</string>
+    <string name="dummy_location">California, USA</string>
+    <string name="dummy_company">Facebook, Inc</string>
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="title_bar_detail">Detail</string>
+</resources>

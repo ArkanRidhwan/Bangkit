@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="dummy_fullname">Nama lengkap</string>
+    <string name="dummy_username">Nama pengguna</string>
+    <string name="dummy_item">Ellena</string>
+    <string name="search">Cari</string>
+    <string name="change_language_setting">Ganti Bahasa</string>
+    <string name="query_hint">Masukkan nama yang ingin dicari</string>
+    <string name="dummy_location">California, USA</string>
+    <string name="dummy_company">Facebook, Inc</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="title_bar_detail">Detail</string>
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Arkan Submission 3</string>
+    <string name="repository">Repository</string>
+    <string name="follower">Follower</string>
+    <string name="following">Following</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="dicoding">Google</string>
+    <string name="share">Share</string>
+    <string name="search_hint">Cari Disini</string>
+
+    <!-- Other string resources-->
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="empty">Kosong</string>
+    <string name="favorite">Favorite</string>
+    <string name="added">Ditambahkan</string>
+    <string name="remove">Dihapus</string>
+    <string name="ganti_tema">Ganti Tema</string>
+
+</resources>

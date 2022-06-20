@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GithubUserAPI</string>
+    <string name="dummy_fullname">Nombre completo</string>
+    <string name="dummy_username">Nombre de usuario</string>
+    <string name="dummy_item">Ellena</string>
+    <string name="search">Buscar</string>
+    <string name="change_language_setting">Cambiar idioma</string>
+    <string name="query_hint">Nombre de entrada</string>
+    <string name="dummy_location">California, USA</string>
+    <string name="dummy_company">Facebook, Inc</string>
+    <string name="repository">Repositorio</string>
+    <string name="followers">Seguidoras</string>
+    <string name="following">siguiendo</string>
+    <string name="title_bar_detail">Detalle</string>
+</resources>
